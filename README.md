@@ -32,7 +32,7 @@ You will be prompted for the ID # of the product you would like to buy:
 
   <img src='./images/readme-images/purchase-item.png'>
 
-  * You will be told which item you purchase, how many of them, and how much it costed
+  * You will be told which item you purchased, how many of them, and how much it cost
   * The program will then update the database and stop
   * You must enter "node bamazonCustomer.js" to run again
 
